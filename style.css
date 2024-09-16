@@ -112,6 +112,11 @@ header .navbar ul li{
     margin:0 1rem;
 }
 
+.home {
+    background: url('images/background.jpg') no-repeat center center;
+    background-size: cover; /* Ensures the image covers the whole section */
+}
+
 header .navbar ul li a{
     font-size: 2rem;
     color:#666;
