@@ -113,7 +113,7 @@ header .navbar ul li{
 }
 
 .home {
-    background: url('images/background.jpg') no-repeat center center;
+    background: url('images:home-bg.jpg') no-repeat center center;
     background-size: cover; /* Ensures the image covers the whole section */
 }
 
