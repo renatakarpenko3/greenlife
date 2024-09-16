@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
 body{ background-color:  #d4f4e0;} 
+body {
+    background-image: url('images:home-bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
 
 :root{
     --begreen:#0d9979;
