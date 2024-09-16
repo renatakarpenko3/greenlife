@@ -250,6 +250,7 @@ header .fa-bars{
     padding:2rem 1rem;
     text-align: center;
     background:#fff;
+    background: url('image.jpg')
     border:.2rem solid var(--begreen);
     margin:2rem;
     cursor: pointer;
