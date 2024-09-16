@@ -7,6 +7,10 @@ body {
 :root {
     --begreen: url('image.jpg'); 
 }
+.content {
+    background: url(image.gpg') center no-repeat;
+ }
+
 
 :root{
     --begreen:#0d9979;
