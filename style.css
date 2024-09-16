@@ -4,6 +4,9 @@ body {
     background-image: url('greenlife/images:home-bg.jpg') no-repeat center center fixed;
     background-size: cover;
 }
+:root {
+    --begreen: url('greenlife/images:home-bg.jpg'); /* Defining the variable with a green color */
+}
 
 :root{
     --begreen:#0d9979;
